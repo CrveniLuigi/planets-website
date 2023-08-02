@@ -15,8 +15,6 @@ btn2.addEventListener('click', () => {
 
 })
 
-
-
 const btn3 = document.querySelector(".btn-surface");
 btn3.addEventListener('click', () => {
     planetPic.src = "images/geology-earth.png";

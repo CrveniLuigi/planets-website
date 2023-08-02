@@ -38,6 +38,11 @@ nav {
     vertical-align: middle;
 }
 
+.image {
+    height: 450px;
+    width: auto;
+}
+
 .nav-links {
     display: flex;
     list-style-type: none;
